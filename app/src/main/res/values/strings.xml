@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VectorLengthCalculation</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="h">H=</string>
+    <string name="calculate">Calculate</string>
+    <string name="abh">abh</string>
+</resources>
